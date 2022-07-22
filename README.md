@@ -12,7 +12,7 @@ This early stage repository:
 - will always manage, as primary content, pure Kotlin source code
 - will publish project(s) to Maven Central under `com.ably` (_not_ `io.ably`)
 - has, initially, been created to assist us in breaking out Ably-shared components from [our Asset Tracking Android SDKs](https://github.com/ably/ably-asset-tracking-android)
-- will, eventually, start contributing dependencis for [our core Java SDK](https://github.com/ably/ably-java/)
+- will, eventually, start contributing dependencies for [our core Java SDK](https://github.com/ably/ably-java/)
 
 ## Contributing
 
